@@ -1,0 +1,119 @@
+[
+  {
+    "type":"推荐专区",
+    "titleSrc":"",
+    "smallClass":[{"src":"","title":"小食买4免1"}, {"src":"","title":"夏日餐厨满199减20"},{"src":"","title":"亲子好物满199减30"},{"src":"","title":"严选黑标"},{"src":"","title":"自然系"},{"src":"","title":"丁磊的好货推荐"},{"src":"","title":"999+好评"},{"src":"","title":"黑凤梨系列"}]
+  },
+  {
+    "type":"爆品区",
+    "titleSrc":"",
+    "smallClass":[{"src":"","title":"夏凉床品"},
+      {"src":"","title":"功能箱包"},
+      {"src":"","title":"女装"},
+      {"src":"","title":"男装"},
+      {"src":"","title":"男鞋女鞋"},
+      {"src":"","title":"保健养生"},
+      {"src":"","title":"酒水饮品"},
+      {"src":"","title":"清洁日用"},
+      {"src":"","title":"宝贝专用"},
+      {"src":"","title":"游戏周边"}]
+  },
+  {
+    "type":"夏季专区",
+    "titleSrc":"",
+    "smallClass":[{"src":"","title":"夏季出行"},{"src":"","title":"清凉床品"},{"src":"","title":"夏季茶饮"},{"src":"","title":"减脂好物"},{"src":"","title":"女士夏装"},{"src":"","title":"男士夏装"},{"src":"","title":"萌宝夏装"},{"src":"","title":"夏季凉拖"}]
+  },
+  {
+    "type":"居家",
+    "titleSrc":"",
+    "smallClass":[{"src":"","title":"夏凉床品件套"},{"src":"","title":"被枕"},{"src":"","title":"家具"},{"src":"","title":"灯具"},{"src":"","title":"收纳"},{"src":"","title":"布艺软装"},{"src":"","title":"家饰"},{"src":"","title":"旅行用品"},{"src":"","title":"宠物"}]
+  },
+  {
+  "type":"鞋包配饰",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"行李箱"},{"src":"","title":"男士包袋"},{"src":"","title":"女士包袋"},{"src":"","title":"钱包及小皮件"},{"src":"","title":"女鞋"},{"src":"","title":"男鞋"},{"src":"","title":"拖鞋"},{"src":"","title":"鞋配"},{"src":"","title":"袜子"},{"src":"","title":"丝袜"},{"src":"","title":"配饰"},{"src":"","title":"眼镜"},{"src":"","title":"围巾件套"}]
+}, {
+  "type":"服装",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"运动"},{"src":"","title":"衬衫"},{"src":"","title":"牛仔"},{"src":"","title":"裤装"},{"src":"","title":"内衣"},{"src":"","title":"内裤"},{"src":"","title":"家居服"},{"src":"","title":"裙装"},{"src":"","title":"卫衣"},{"src":"","title":"丝袜"},{"src":"","title":"配饰"},{"src":"","title":"外衣"},{"src":"","title":"针织毛衫"}]
+}, {
+  "type":"电器",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"生活电器"},{"src":"","title":"厨房电器"},{"src":"","title":"个护健康"},{"src":"","title":"数码"},{"src":"","title":"影音娱乐"}]
+}, {
+  "type":"洗护",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"纸品湿巾"},{"src":"","title":"家庭清洁"},{"src":"","title":"生理用品"},{"src":"","title":"毛巾"},{"src":"","title":"美妆"},{"src":"","title":"面部口腔护理"},{"src":"","title":"身体护理"},{"src":"","title":"浴室用具"},{"src":"","title":"洗发护发"},{"src":"","title":"香薰"}]
+},
+  {
+    "type": "饮食",
+    "titleSrc": "",
+    "smallClass": [
+      {
+        "src": "",
+        "title": "世界杯美食"
+      },
+      {
+        "src": "",
+        "title": "糕点"
+      },
+      {
+        "src": "",
+        "title": "小食"
+      },
+      {
+        "src": "",
+        "title": "坚果炒货"
+      },
+      {
+        "src": "",
+        "title": "果干"
+      },
+      {
+        "src": "",
+        "title": "肉类零食"
+      },
+      {
+        "src": "",
+        "title": "冲饮"
+      },
+      {
+        "src": "",
+        "title": "茗茶"
+      },
+      {
+        "src": "",
+        "title": "酒水饮料"
+      },
+      {
+        "src": "",
+        "title": "食材"
+      },
+      {
+        "src": "",
+        "title": "调味"
+      },
+      {
+        "src": "",
+        "title": "滋补保健"
+      },
+      {
+        "src": "",
+        "title": "生鲜"
+      }
+    ]
+  }, {
+  "type":"餐厨",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"水具杯壶"},{"src":"","title":"餐具"},{"src":"","title":"锅具"},{"src":"","title":"清洁保鲜"},{"src":"","title":"厨房配件"},{"src":"","title":"刀剪砧板"},{"src":"","title":"茶具咖啡具酒具"}]
+}, {
+  "type":"婴童",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"新生儿服装"},{"src":"","title":"小童服装"},{"src":"","title":"中大童服装"},{"src":"","title":"内衣配搭"},{"src":"","title":"童鞋童包"},{"src":"","title":"婴童洗护"},{"src":"","title":"孕产"},{"src":"","title":"寝居"},{"src":"","title":"喂养"},{"src":"","title":"玩具"}]
+}, {
+  "type":"文体",
+  "titleSrc":"",
+  "smallClass":[{"src":"","title":"文具"},{"src":"","title":"运动户外"},{"src":"","title":"唱片"},{"src":"","title":"礼品卡"},{"src":"","title":"游戏点卡"},{"src":"","title":"我的世界"},{"src":"","title":"梦幻西游"},{"src":"","title":"大话西游"},{"src":"","title":"阴阳师"},{"src":"","title":"游戏表情"},{"src":"","title":"影视周边"},{"src":"","title":"动漫周边"}]
+}
+
+]
